@@ -1,4 +1,3 @@
-import react from "react";
 import classes from "./Mealitem.module.css";
 import MealItemForm from "./MealItemForm";
 const MealItem = (props) => {
